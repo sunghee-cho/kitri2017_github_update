@@ -27,10 +27,10 @@ class LgTV{
 		System.out.println("�뿕吏�tv:蹂쇰ⅷ�궡由щ떎");
 	}	
 }
-
+//수정
 public class TVUser {
 public static void main(String[] args) {
-	System.out.println("github fork test");
+	System.out.println("github fork test_");
 	SamsungTV s1 = new SamsungTV();
 	s1.powerOn();
 	s1.volumeUp();
