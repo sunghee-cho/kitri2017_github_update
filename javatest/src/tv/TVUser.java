@@ -30,7 +30,7 @@ class LgTV{
 
 public class TVUser {
 public static void main(String[] args) {
-	System.out.println("github fork test");
+	System.out.println("github forkkkkkkkkk포크크카카카 test");
 	SamsungTV s1 = new SamsungTV();
 	s1.powerOn();
 	s1.volumeUp();
