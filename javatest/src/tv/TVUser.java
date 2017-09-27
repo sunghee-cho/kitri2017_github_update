@@ -33,6 +33,7 @@ class LgTV{
 //MAIN - FACTORY 시켜서 결과 리턴 
 public class TVUser {
 public static void main(String[] args) {
+	System.out.println("github test");
 	SamsungTV s1 = new SamsungTV();
 	s1.powerOn();
 	s1.volumeUp();
